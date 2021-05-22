@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![](http://antzuhl.cn:4000/get/@LunaticKrian.readme)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LunaticKrian.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=LunaticKrian&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
