@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ![](http://antzuhl.cn:4000/get/@LunaticKrian.readme)
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=LunaticKrian.readme)
