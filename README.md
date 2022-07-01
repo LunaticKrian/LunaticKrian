@@ -1,5 +1,3 @@
-<!-- ![](https://github-readme-stats.vercel.app/api?username=LunaticKrian&theme=dark) -->
-
 <!-- 动态打字效果 -->
 <h1 align="center">
     <!-- 这里留个链接到主页 -->
@@ -20,12 +18,12 @@
   <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a href="https://www.zhihu.com/people/LunaticKrian/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/LunaticKrian/LunaticKrian/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 # 🙋 Hello
 
@@ -101,7 +99,7 @@
 <!-- 连续提交代码天数记录 -->
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/LunaticKrian/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LunaticKrian&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/LunaticKrian/photos/images/202108300312623.png" />
 </div>
 <br>
@@ -274,3 +272,6 @@ Last Updated on 29/06/2022 02:09:33 UTC
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
 </div>
+
+
+![](https://github-readme-stats.vercel.app/api?username=LunaticKrian&theme=dark) 
