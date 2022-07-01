@@ -1,13 +1,10 @@
-<h1>If you don't have a dream, what is the difference between being a person and salted fish?</h1>
-
-![](https://github-readme-stats.vercel.app/api?username=LunaticKrian&theme=dark)
-
-
+<!-- ![](https://github-readme-stats.vercel.app/api?username=LunaticKrian&theme=dark) -->
 
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27">
+    <!-- 这里留个链接到主页 -->
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);If you don't have a dream, what is the difference between being a person and salted fish?&center=true&size=27">
   </a>
 </h1>
 
@@ -30,8 +27,7 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-
-#  🙋 Hello
+# 🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，我是范同学! 目前就读于重庆邮电大学信息管理与信息系统专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
@@ -100,32 +96,31 @@
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
-
 # 🚀 Actions
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/LunaticKrian/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/LunaticKrian/photos/images/202108300312623.png" />
 </div>
 <br>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/LunaticKrian/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
 <br>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=LunaticKrian&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LunaticKrian&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaticKrian&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
@@ -137,11 +132,13 @@
 ### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+
 * <a href='https://sunguoqi.com/posts/20220225.html' target='_blank'>人生21岁，版本更新日志！</a> - 2022-02-25
 * <a href='https://sunguoqi.com/posts/fiddler.html' target='_blank'>我终于学废用Fiddler抓包了！</a> - 2022-01-24
 * <a href='https://sunguoqi.com/posts/4243.html' target='_blank'>零基础快速上手云服务器</a> - 2022-01-09
 * <a href='https://sunguoqi.com/posts/33414.html' target='_blank'>给GitHub首页添加一个有趣的贪吃蛇小动画</a> - 2022-01-08
 * <a href='https://sunguoqi.com/posts/cuiqingcai.html' target='_blank'>21年终总结&&关于我自学爬虫的点滴经历</a> - 2021-12-31
+
 <!-- END_SECTION:blog -->
 
 </td>
@@ -151,11 +148,13 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+
 * <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
 * <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
 * <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
 * <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
 * <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
+
 <!-- END_SECTION:douban -->
 
 </td> 
@@ -178,6 +177,7 @@
 🌙 Night      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92%
 
 ```
+
 📅 **I'm Most Productive on Friday**
 
 ```text
@@ -190,7 +190,6 @@ Saturday     70 commits     ██░░░░░░░░░░░░░░░�
 Sunday       64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17%
 
 ```
-
 
 📊 **This Week I Spent My Time On**
 
@@ -212,7 +211,6 @@ PyCharm                  1 hr 33 mins        █░░░░░░░░░░�
 Windows                  21 hrs 44 mins      █████████████████████████   100.0%
 
 ```
-
 
 Last Updated on 29/06/2022 02:09:33 UTC
 <!--END_SECTION:waka-->
@@ -265,7 +263,6 @@ Last Updated on 29/06/2022 02:09:33 UTC
     </td>
   </tr>
 </table>
-
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
