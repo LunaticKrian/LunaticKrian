@@ -1,9 +1,16 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);做人如果没有梦想，那和咸鱼有什么分别？&center=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);做人如果没有梦想，那和咸鱼有什么分别？&center=true&size=20">
   </a>
 </h1>
+
+# 🙋 Hello ！
+
+<p>✍️&nbsp;&nbsp;你好，我是爱吃糖的范同学! 目前就读于重庆邮电大学信息管理与信息系统专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;我开始得万，但总归不算太迟。春华秋实，努力就一定会有收获，一枚学渣正在悄悄蜕变......</p>
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/LunaticKrian/CS_Box@master/img/img02.gif"/></div>
@@ -24,13 +31,6 @@
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/LunaticKrian/LunaticKrian/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
-# 🙋 Hello
-
-<p>✍️&nbsp;&nbsp;大家好，我是范同学! 目前就读于重庆邮电大学信息管理与信息系统专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
 
 💪 正在学习:
 
