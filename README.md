@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
+  <a href="https://github.com/LunaticKrian">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);做人如果没有梦想，那和咸鱼有什么分别？&center=true&size=20">
   </a>
 </h1>
