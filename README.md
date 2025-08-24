@@ -7,7 +7,7 @@
 
 # 🙋 Hello ！
 
-<p>✍️&nbsp;&nbsp;Hello，我是爱吃糖的范同学! 目前就职于北京某大厂，从事后端研发工作 🎉</p>
+<p>✍️&nbsp;&nbsp;Hello，这里是百成 Krian! 目前在北京从事后端研发工作 🎉</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始得晚，但总归不算太迟。春华秋实，努力就一定会有收获！</p>
