@@ -5,12 +5,13 @@
   </a>
 </h1>
 
-# 🙋 Hello ！
+# 👋 我是 百成 Krian
 
-<p>✍️&nbsp;&nbsp;Hello，这里是百成 Krian! 目前在北京从事后端研发工作 🎉</p>
-<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;我开始得晚，但总归不算太迟。春华秋实，努力就一定会有收获！</p>
+🌈 01年，AI 全栈工程师，代码狂热爱好者，目前在北京从事大模型应用研发工作 🎉
+
+🏡 个人网站：[https://www.lunatice.com](https://www.lunatice.com)
+
+✉️ 邮箱：`2793260947@qq.com`
 
 <!-- 敲代码的图片 -->
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/LunaticKrian/CS_Box@master/img/img02.gif"/></div> -->
