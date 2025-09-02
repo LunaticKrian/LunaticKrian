@@ -1,13 +1,15 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://github.com/LunaticKrian">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);做人如果没有梦想，那和咸鱼有什么分别？&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20AI!%22);没必要的事不做，必要的事尽快做！&center=true&size=20">
   </a>
 </h1>
 
 # 👋 我是 百成 Krian
 
-🌈 01年，AI 全栈工程师，代码狂热爱好者，目前在北京从事大模型应用研发工作 🎉
+🌈 01年，AI 全栈工程师，代码狂热爱好者
+
+💼 北京 大模型应用研发
 
 🏡 个人网站：[https://www.lunatice.com](https://www.lunatice.com)
 
