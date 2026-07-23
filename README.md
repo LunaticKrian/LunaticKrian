@@ -7,11 +7,11 @@
 
 # 👋 Hi, This Krian
 
-🌈 01，AI Coder (Code enthusiast)
+🌈 01，Coder (Code enthusiast)
 
-💼 BJ LLM
+💼 BJ For AI LLM
 
-🏡 个人网站：[https://www.lunatice.com](https://www.lunatice.com)
+🏡 Personal Website：[https://www.lunatice.com](https://www.lunatice.com)
 
 ✉️ Email：`krianlunatic@gmail.com`
 
