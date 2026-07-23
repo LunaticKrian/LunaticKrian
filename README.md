@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://github.com/LunaticKrian">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20AI!%22);没必要的事不做，必要的事尽快做！&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20AI!%22);Don't do unnecessary things; do the necessary things as soon as possible!&center=true&size=20">
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
 
 🏡 个人网站：[https://www.lunatice.com](https://www.lunatice.com)
 
-✉️ 邮箱：`2793260947@qq.com`
+✉️ 邮箱：`krianlunatic@gmail.com`
 
 <!-- 敲代码的图片 -->
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/LunaticKrian/CS_Box@master/img/img02.gif"/></div> -->
