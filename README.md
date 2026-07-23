@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://github.com/LunaticKrian">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20AI!%22);Don't do unnecessary things; do the necessary things as soon as possible!&center=true&size=20">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&separator=%3C&lines=Don't+do+unnecessary+things;+do+the+necessary+things+as+soon+as+possible!" alt="Typing SVG" /></a>
   </a>
 </h1>
 
