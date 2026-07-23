@@ -5,20 +5,20 @@
   </a>
 </h1>
 
-# 👋 我是 百成 Krian
+# 👋 Hi, This Krian
 
-🌈 01年，AI 全栈工程师，代码狂热爱好者
+🌈 01，AI Coder (Code enthusiast)
 
-💼 北京 大模型应用研发
+💼 BJ LLM
 
 🏡 个人网站：[https://www.lunatice.com](https://www.lunatice.com)
 
-✉️ 邮箱：`krianlunatic@gmail.com`
+✉️ Email：`krianlunatic@gmail.com`
 
 <!-- 敲代码的图片 -->
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/LunaticKrian/CS_Box@master/img/img02.gif"/></div> -->
 
-## 技术栈
+## Technical stack
 
 <p align="left">
   <a href="https://skillicons.dev">
